@@ -51,7 +51,7 @@ import hashlib
 import json
 import ntpath
 import os
-import re
+from pathlib import Path
 import shlex
 import shutil
 import stat
